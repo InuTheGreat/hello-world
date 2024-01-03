@@ -2,6 +2,6 @@
 git hub excercise
 
 
-##About me
+## About me
 
-My name is **Konrad Mrozowski
+My name is ** Konrad Mrozowski
