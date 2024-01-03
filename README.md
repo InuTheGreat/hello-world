@@ -4,4 +4,4 @@ git hub excercise
 
 ## About me
 
-My name is ** Konrad Mrozowski
+My name is **Konrad Mrozowski**
